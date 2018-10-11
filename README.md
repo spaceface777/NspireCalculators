@@ -17,3 +17,7 @@ You can buy the calculators by [filling in this form](https://goo.gl/forms/hrhIV
 - All calculators PLUS any extra calculator that comes out later PLUS updates 	-   5 euros
 ```
 After you fill in the form, give me your calculator and I'll install them for you.
+
+## ISSUES / REQUESTS
+
+If you find any problem with an existing calculator, or want to request a new one, create an entry in [the Issues page](https://github.com/spaceface777/NspireCalculators/issues "Issues page"), and <b>please</b> follow the template on the page. When I code a fix, I will post the updated code here and install the update manually if you purchased that option. 
