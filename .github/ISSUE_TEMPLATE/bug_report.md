@@ -1,7 +1,6 @@
 ---
 name: Bug report
-about: Before filling this in, reset your calculator by pushing the button on the
-  back and verify it sitll happens.
+about: Fill this in if you have any problems with the calculators.
 
 ---
 
