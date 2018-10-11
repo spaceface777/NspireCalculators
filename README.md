@@ -7,9 +7,9 @@ This repo contains the code for my custom calculators for the TI Nspire CX. (It 
 By purchasing / installing these calculators, you are effectively becoming the owner of the file. If you receive any consequences for using them, then it is in NO WAY my fault. 
 
 ## INSTALLATION
-All code is saved in this repository. If you can figure out how to install it yourself, then good for you! If not, then you can 
+All code is saved in this repository. If you can figure out how to install it yourself, then good for you! If not, then you can:
 
-## PURCHASING
+## PURCHASE THE CALCULATORS
 You can buy the calculators by [filling in this form](https://goo.gl/forms/hrhIV5CWMWb9MRYg2 "Calculator request form"). The prices are the following:
 ```
 - 3 calculators (You can choose which ones)	                 		-   1 euro
