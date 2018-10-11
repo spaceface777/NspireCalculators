@@ -1,5 +1,5 @@
 ---
-name: Calculator requests
+name: Calculator request
 about: Fill this in if you have any calculator requests.
 
 ---
