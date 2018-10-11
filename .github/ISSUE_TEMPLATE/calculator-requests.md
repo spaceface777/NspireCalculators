@@ -1,6 +1,6 @@
 ---
 name: Calculator requests
-about: Suggest a new calculator here.
+about: Fill this in if you have any calculator requests.
 
 ---
 
