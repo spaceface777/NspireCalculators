@@ -84,6 +84,12 @@ function on.enterKey()
         Number1 = (X1+X2)/2
         Number2 = (Y1+Y2)/2
         myTable[4] = "The midpoint is (" ..  Number1 .. "," .. Number2 .. ")." 
+        if X1 == X2 then
+            if Y1 == Y2 then
+                myTable[4] = "The two points are the same." 
+            end
+        end    
+
         on.resize()
     end 
     end
@@ -97,6 +103,7 @@ function on.paint(gc)
       h=screen:height() 
       w=screen:width() 
 
+    -- Build the lines 
     local linecount = #myTable 
     for k = 1, linecount do 
     if k == 1 then 
@@ -114,6 +121,8 @@ function on.paint(gc)
         gc:drawString(myTable[k], w/2 - strwidth/2 ,h*(k)/(linecount+1) + strheight/2) 
     end 
     
+     -- A box around the answer 
+     
      local ht = 0.1*h 
     
      gc:setColorRGB(20, 20, 138) 
